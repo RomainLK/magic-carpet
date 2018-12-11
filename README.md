@@ -1,4 +1,6 @@
 # Introduction
+This is a tool developed in a corner. No support or anything at the moment.
+
 Magic Carpet is a Chrome extension to navigate around Nuxt application
 
 # Features
